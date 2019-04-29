@@ -9,5 +9,6 @@ public class Test {
 	student.setAge(23);
 	student.setName("张三");
 	System.out.println(student.getName());
+	System.out.println("完毕");
     }
 }
